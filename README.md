@@ -4,10 +4,6 @@ An online compiler and code runner that supports multiple programming languages 
 
 ---
 
-## 🔗 Live Demo
-
-👉 [Try it here](https://your-demo-link.com) *(optional: add deployed site)*
-
 ---
 
 ## ✨ Features
