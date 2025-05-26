@@ -2,9 +2,6 @@
 
 An online compiler and code runner that supports multiple programming languages such as C++, Python, Java, and JavaScript. Users can write code, provide input, and execute it in a secure sandboxed environment—all from a web browser.
 
----
-
----
 
 ## ✨ Features
 
