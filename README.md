@@ -10,7 +10,7 @@ An online compiler and code runner that supports multiple programming languages 
 - 📥 Custom input (stdin) support
 - 🔐 Secure, sandboxed code execution using Docker
 - ⚡ Real-time output display (stdout, stderr, execution time)
-- 🧩 Scalable and modular architecture
+- 🧩 Scalable and modular architecture.
 
 ---
 
