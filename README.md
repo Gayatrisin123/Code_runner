@@ -1,18 +1,4 @@
-# 🧠 CodeRunner - Online Code Compiler & Executor
 
-An online compiler and code runner that supports multiple programming languages such as C++, Python, Java, and JavaScript. Users can write code, provide input, and execute it in a secure sandboxed environment—all from a web browser.
-
-
-## ✨ Features
-
-- 📝 Syntax-highlighted code editor (powered by Monaco Editor)
-- 🌍 Multi-language support: C++, Python, Java, JavaScript
-- 📥 Custom input (stdin) support
-- 🔐 Secure, sandboxed code execution using Docker
-- ⚡ Real-time output display (stdout, stderr, execution time)
-- 🧩 Scalable and modular architecture.
-
----
 
 ## 🛠 Tech Stack
 
