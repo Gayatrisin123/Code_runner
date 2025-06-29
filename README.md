@@ -23,16 +23,10 @@
 
 ---
 
-## 📸 Screenshots
-
-> _Add screenshots or a demo video link here to showcase the interface_
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/code-runner.git
+git clone https://github.com/Gayatrisin123/Code_runner.git
 cd code-runner
