@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Box, Button, Text, useToast } from "@chakra-ui/react";
 import { executeCode } from "../api";
-
+import React from 'react';
 const Output = ({ editorRef, language }) => {
   const toast = useToast();
   const [output, setOutput] = useState(null);
