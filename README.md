@@ -30,3 +30,9 @@
 ```bash
 git clone https://github.com/Gayatrisin123/Code_runner.git
 cd code-runner
+```
+### 2. Install Dependencies
+
+```bash
+npm install
+```
