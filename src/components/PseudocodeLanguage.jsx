@@ -1,5 +1,5 @@
 import * as monaco from "monaco-editor";
-
+import React from 'react';
 // Define Pseudocode language for Monaco Editor
 export function registerPseudocodeLanguage() {
   // Register a new language
