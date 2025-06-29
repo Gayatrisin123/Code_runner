@@ -36,3 +36,6 @@ cd code-runner
 ```bash
 npm install
 ```
+3. Start the Application
+```bash
+npm start
